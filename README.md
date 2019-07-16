@@ -2,7 +2,7 @@
 Jupyter notebook tutorials for how reference frames and rotations work
 
 Most of the style and layout has been lifted from Eric Ma's excellent
-(Network Analysis Made Easy)[https://github.com/ericmjl/Network-Analysis-Made-Simple]
+[Network Analysis Made Easy](https://github.com/ericmjl/Network-Analysis-Made-Simple).
 
 
 ## Getting Started
