@@ -17,3 +17,11 @@ and start your notebook server:
 
 This will open up a jupyter lab instance in your browser. From there, you can
 select the notebook to work on from the left-hand menu.
+
+## Resources
+
+* [quaternion applet](https://quaternions.online/) - A good online applet for visualizing quaternions
+* [wolfram alpha](https://www.wolframalpha.com/input/?i=quaternion+(0.5,+0.5,+0.5,+0.5)) - wolfram alpha will give you almost every representation of a rotation and some handy visualizations
+* [NAIF Rotations Required Reading](https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/C/req/rotation.html)
+* [NAIF Reference Frames Required Reading](https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/C/req/frames.html)
+* [Rotations and Quaternions](https://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation) - In depth explanation of how quaternions relate to rotations
